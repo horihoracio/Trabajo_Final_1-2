@@ -1,0 +1,41 @@
+.col-sm-8{
+    width: 75vh;
+    margin: auto;
+    max-width: 1000px;
+    min-width: 320px;
+    }
+    body{
+        font-family:'League Spartan', sans-serif;
+    }
+    h1{
+        text-align: left;
+        margin: 50px 0px;
+        font-size: 1.8rem;
+        position: relative;
+        top: 100px;
+        font-family: 'League Spartan', sans-serif;
+        
+    }
+    
+    span{
+        text-decoration: grey;
+        text-align: start;
+        color: rgb(200, 184, 184);
+        font-family: 'League Spartan', sans-serif;
+        top: 36%;
+        position: absolute;
+        right: 80.5%;
+    }
+    .button{
+        position: absolute;
+        top: 40%;
+        text-align: start;
+        color: white;
+    }
+    
+    a:link{
+        text-decoration: none;
+    }
+    a:visited{
+        text-decoration: none;
+    }

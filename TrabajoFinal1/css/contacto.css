@@ -1,0 +1,47 @@
+nav{
+    background-color: rgb(57, 177, 57);
+}
+body{
+    font-family: 'League Spartan', sans-serif !important;
+    background-color: rgb(237, 237, 237) !important;
+}
+
+footer{
+    background-color: rgb(58, 202, 58);
+}
+
+iframe{
+    width: 270px;
+    height: 270px;
+    border-radius: 15px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+   
+}
+table{
+    border-color: rgb(237, 237, 237) !important;
+   
+}
+
+
+.email{
+    position: absolute;
+    top: 31%;
+    left: 16%;
+}
+
+.ubic{
+    position: absolute;
+    top: 41%;
+    left: 15%;
+}
+.gmail{
+    position: absolute;
+    top: 31%;
+    left: 38%;
+}

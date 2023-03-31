@@ -1,0 +1,80 @@
+nav{
+    background-color: rgb(138, 222, 138);
+}
+body{
+   font-family: 'League Spartan', sans-serif !important;
+}
+h4{
+    padding: 1%;
+    color:  #212529;
+    text-decoration: underline;
+}
+a {
+    position: relative;
+    left: 660px;
+    top: -35px;
+    color: #212529;
+}
+a:link{
+   text-decoration: none;
+   color: #212529;
+}
+a:visited{
+   text-decoration: none;
+   color: #212529;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+ button{
+    border: none;
+    padding: 5px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    align-items: center;
+
+ }
+ button:hover{
+    cursor: pointer;
+ }
+
+ .buttons{
+    border: solid;
+    text-decoration: green;
+    position: relative;
+    top: 163px;
+ }
+
+ .buttons:active{
+    background-color: grey;
+ }
+ .buttons:hover{
+   cursor: pointer;
+ }
+ h5{ color:  #212529;
+    text-decoration: underline;
+    position: relative;
+    left: 840px;
+    top: -55px;
+ }
+:root {
+   --primary-color: #212529;
+}
+ .lata-1{
+   position: relative;
+   text-align: start;
+ }
+
+ .lata-2{
+   position: absolute;
+   top: 31%;
+ }
+ .lata-3{
+   position: absolute;
+   top: 42%;
+ }
+ .lata4{
+   
+   top: 55%;
+ }

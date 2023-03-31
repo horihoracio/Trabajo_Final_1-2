@@ -1,0 +1,119 @@
+:root {
+    --primary-color: #212529;
+}
+
+body {
+    background-color: var(--primary-color, black) !important;
+    font-family: 'League Spartan', sans-serif !important;
+}
+
+
+.carousel {
+    margin-top: 5%;
+}
+ i{
+    margin: 0.3rem;
+ }
+nav {
+    display: inline-flex;
+    flex-wrap: nowrap !important;
+}
+
+.MainToggler {
+    align-items: flex-start !important;
+}
+
+.hori {
+    margin-left: 70% !important;
+    padding: 0.3rem 0.7rem !important;
+}
+
+.productostitulo {
+    color: white;
+}
+
+.productos-mas-vendidos {
+    margin-top: 1%;
+}
+
+.productos-mas-vendidos-dd {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    margin-bottom: 4.5%;
+}
+
+.container-fluid .icono {
+    width: 2rem;
+    height: 2rem;
+}
+
+.icn-ft {
+    width: 40% !important;
+    height: 30%;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-around !important;
+    margin-top: 15%;
+}
+
+.icons:hover {
+    cursor: pointer;
+}
+
+.logopago {
+    width: 10%;
+    margin: 1rem;
+}
+
+.logopago:hover {
+    cursor: pointer;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.row-pet {
+    margin-top: 1rem !important;
+}
+
+.cit-pet {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.large {
+    width: 70% !important;
+    background-color: blue;
+    outline: none;
+}
+
+.card-img-top {
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    height: 50% !important;
+}
+
+p {
+    margin: 0.2rem !important;
+    font-weight: bold;
+}
+
+.fuzlogo {
+    width: 4rem;
+    height: 4rem;
+    padding: 0 0 !important;
+    margin: 0 0 !important;
+    border-radius: 100%;
+}
+
+hr {
+    color: white !important;
+}
+
