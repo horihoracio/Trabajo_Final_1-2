@@ -3,11 +3,12 @@ body{
     
 }
 .Formulariotf {
-    margin-top: 50px!important;
     cursor: pointer;
+    margin: 100px!important;
+    
 }
 .butform{
-    border-radius: 0.5rem !important;
+    border-radius: 0.7rem !important;
 }
 .butform:hover {
     transform: scale(1.1);
@@ -16,4 +17,16 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly !important;
+}
+body{
+    background-color: rgb(32, 31, 31) !important;
+}
+button{
+    color: rgb(80, 80, 182) !important;
+}
+span{
+    color: rgb(80, 80, 182) !important;
+}
+::placeholder{
+    color: black !important;
 }
